@@ -1,4 +1,4 @@
-name: Welcome first time contributors
+name: Welcome first time contributor inception master
 on:
   pull_request_target:
     types: 
